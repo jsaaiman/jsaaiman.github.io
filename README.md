@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm [Julian!](https://github.com/jsaaiman/)
 
-### Thanks for stopping in! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jsaaiman.jsaaiman&style=flat-square&color=0088cc)
+### Thanks for stopping in!
 
 <img align="right" height="180" width="270" alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="padding: 10px;" />
 
