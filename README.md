@@ -29,10 +29,10 @@ Add me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style
 
 ### Projects and Development Work:
 
-- [Taking Netsuite data and transforming it](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Function_01_import_transform_all_actuals.sql)
-- [Taking Bigquery data and transforming it](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Function_02_restate_historical_scenarios.sql)
-- [Taking historical actuals and archiving](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Function_03_actualize_forecasts.sql)
-- [Consolidating datasets](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Function_04_create_consolidated_financials.sql)
-- [Pulling purchase order data for dashboards](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Reference_Query_A%20-%20Open%20POs.sql)
-- [Breaking headcount data down by location](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Reference_Query_G%20-%20HC%20by%20Location.sql)
-- [Calculating $ per mile](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Reference_Query_H%20-%20Dollars%20Per%20Mile.sql)
+- [Taking Netsuite data and transforming it](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/examples/Function_01_import_transform_all_actuals.sql)
+- [Taking Bigquery data and transforming it](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/examples/Function_02_restate_historical_scenarios.sql)
+- [Taking historical actuals and archiving](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/examples/Function_03_actualize_forecasts.sql)
+- [Consolidating datasets](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/examples/Function_04_create_consolidated_financials.sql)
+- [Pulling purchase order data for dashboards](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/examples/Reference_Query_A%20-%20Open%20POs.sql)
+- [Breaking headcount data down by location](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/examples/Reference_Query_G%20-%20HC%20by%20Location.sql)
+- [Calculating $ per mile](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/examples/Reference_Query_H%20-%20Dollars%20Per%20Mile.sql)
