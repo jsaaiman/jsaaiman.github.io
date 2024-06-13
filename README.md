@@ -6,14 +6,14 @@ I'm a data-driven finance and analytics professional with extensive experience i
 
 Below you'll find some examples of queries I've used pull and standardize large data sets across disparate enterprise solutions. 
 
-- 🛠 &nbsp; I’m currently working with Bigquery, Redshift, SQL, Python. 
+🛠 I’m currently working with Bigquery, Redshift, SQL, Python. 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuff:
 
-- 🎧🎵🎶 I'm passionate about music. I've been spending the last year learning how to produce music. I'm hoping to get a track signed soon. You can check in to www.julianpierre.com for more information
-- 🏃 I keenly interested in the wellness and longevity space. Some of the advancements in that space are really interesting.
+🎧🎵🎶 I'm passionate about music. I've been spending the last year learning how to produce music. I'm hoping to get a track signed soon. You can check in to www.julianpierre.com for more information
+🏃 I keenly interested in the wellness and longevity space. Some of the advancements in that space are really interesting.
 
 ### Languages and Tools:
 
@@ -25,4 +25,10 @@ Below you'll find some examples of queries I've used pull and standardize large 
 
 ### Projects and Dev Stuffs:
 
-https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Function_01_import_transform_all_actuals.sql
+[Taking Netsuite data and tansforming it](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Function_01_import_transform_all_actuals.sql)
+[Taking bigquery data and transforming it](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Function_02_restate_historical_scenarios.sql)
+[Taking historical actuals and archiving](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Function_03_actualize_forecasts.sql)
+[Consolidating data sets](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Function_04_create_consolidated_financials.sql)
+[Pulling purchase order data for dashboards](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Reference_Query_A%20-%20Open%20POs.sql)
+[Breaking headcount data down be location](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Reference_Query_G%20-%20HC%20by%20Location.sql)
+[Calculating $ per mile](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Reference_Query_H%20-%20Dollars%20Per%20Mile.sql)
