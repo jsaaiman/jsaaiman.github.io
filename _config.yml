@@ -1,5 +1,5 @@
 title: Julian Saaiman
-logo: /assets/img/julian.png
-#description: text below image
-#show_downloads: true
+logo: /assets/julian.png
+description: I built this page to showcase some of my work
+show_downloads: true
 theme: jekyll-theme-minimal
