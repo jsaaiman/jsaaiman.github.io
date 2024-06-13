@@ -10,7 +10,7 @@ Below you'll find some examples of queries I've used pull and standardize large 
 
 Add me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsaaiman/)
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" style="padding: 10px;" />
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="padding: 10px;" />
 
 ### Talking about Personal Stuff:
 
