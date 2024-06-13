@@ -10,7 +10,7 @@ Below you'll find some examples of queries I've used to pull and standardize lar
 
 Add me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsaaiman/)
 
-<img align="right" height="125" width="187" alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="padding: 10px;" />
+<img align="right" height="200" width="300" alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="padding: 10px;" />
 
 ### Talking about Personal Stuff:
 
