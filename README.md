@@ -2,11 +2,11 @@
 
 ### Thanks for stopping in! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jsaaiman.jsaaiman&style=flat-square&color=0088cc)
 
-I'm a data-driven finance and analytics professional with extensive experience in financial planning and analysis, and data. Seeking to transition into a data science or data analyst role to utilize my strong analytical skills and technical expertise. I have a proven ability to leverage data analytics, statistical modeling, and business intelligence tools to drive strategic decision-making and optimize processes. 
+I'm a data-driven finance and analytics professional with extensive experience in financial planning, analysis, and data management. I am hoping to transition into a data science or data analyst role to utilize my strong analytical skills and technical expertise. I have a proven ability to leverage data analytics, statistical modeling, and business intelligence tools to drive strategic decision-making and optimize processes.
 
-Below you'll find some examples of queries I've used pull and standardize large data sets across disparate enterprise solutions. 
+Below you'll find some examples of queries I've used to pull and standardize large datasets across disparate enterprise solutions.
 
-🛠 I’m currently working with Bigquery, Redshift, SQL, Python, dbt, Tableplus, and Google Workspace. 
+🛠 I’m currently working with Bigquery, Redshift, SQL, Python, dbt, Tableplus, and Google Workspace.
 
 Add me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsaaiman/)
 
@@ -14,8 +14,8 @@ Add me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style
 
 ### Talking about Personal Stuff:
 
-🎧🎵🎶 I'm passionate about music. I've been spending the last year learning how to produce music. I'm hoping to get a track signed soon. You can check in to www.julianpierre.com for more information <br>
-🏃 I keenly interested in the wellness and longevity space. Some of the advancements in that space are really interesting.<br>
+🎧🎵🎶 I'm passionate about music and have spent the last year learning how to produce music. I'm hoping to get a track signed soon! You can check www.julianpierre.com for more information.<br>
+🏃 I am keenly interested in the wellness and longevity space. Some advancements in this area are really interesting.<br>
 
 ### Languages and Tools:
 
@@ -27,12 +27,12 @@ Add me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style
 <code><img height="27" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
-### Projects and Dev Stuffs:
+### Projects and Development Work:
 
 - [Taking Netsuite data and transforming it](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Function_01_import_transform_all_actuals.sql)
-- [Taking bigquery data and transforming it](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Function_02_restate_historical_scenarios.sql)
+- [Taking Bigquery data and transforming it](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Function_02_restate_historical_scenarios.sql)
 - [Taking historical actuals and archiving](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Function_03_actualize_forecasts.sql)
-- [Consolidating data sets](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Function_04_create_consolidated_financials.sql)
+- [Consolidating datasets](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Function_04_create_consolidated_financials.sql)
 - [Pulling purchase order data for dashboards](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Reference_Query_A%20-%20Open%20POs.sql)
 - [Breaking headcount data down by location](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Reference_Query_G%20-%20HC%20by%20Location.sql)
 - [Calculating $ per mile](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/Reference_Query_H%20-%20Dollars%20Per%20Mile.sql)
