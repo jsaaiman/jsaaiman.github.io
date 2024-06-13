@@ -14,7 +14,7 @@ Add me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style
 
 ### Talking about Personal Stuff:
 
-🎧🎵🎶 I'm passionate about music and have spent the last year learning how to produce music. I'm hoping to get a track signed soon! You can check www.julianpierre.com for more information.<br>
+🎧🎵🎶 I'm passionate about music and have spent the last year learning how to produce music. I'm hoping to get a track signed soon! You can check [here](www.julianpierre.com) for more information.<br>
 🏃 I am keenly interested in the wellness and longevity space. Some advancements in this area are really interesting.<br>
 
 ### Languages and Tools:
