@@ -2,6 +2,8 @@
 
 ### Thanks for stopping in! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jsaaiman.jsaaiman&style=flat-square&color=0088cc)
 
+<img align="right" height="180" width="270" alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="padding: 10px;" />
+
 I'm a data-driven finance and analytics professional with extensive experience in financial planning, analysis, and data management. I am hoping to transition into a data science or data analyst role to utilize my strong analytical skills and technical expertise. I have a proven ability to leverage data analytics, statistical modeling, and business intelligence tools to drive strategic decision-making and optimize processes.
 
 Below you'll find some examples of queries I've used to pull and standardize large datasets across disparate enterprise solutions.
@@ -10,12 +12,6 @@ Below you'll find some examples of queries I've used to pull and standardize lar
 
 Add me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jsaaiman/)
 
-<img align="right" height="200" width="300" alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="padding: 10px;" />
-
-### Talking about Personal Stuff:
-
-🎧🎵🎶 I'm passionate about music and have spent the last year learning how to produce music. I'm hoping to get a track signed soon! You can check [here](www.julianpierre.com) for more information.<br>
-🏃 I am keenly interested in the wellness and longevity space. Some advancements in this area are really interesting.<br>
 
 ### Languages and Tools:
 
@@ -36,3 +32,10 @@ Add me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style
 - [Pulling purchase order data for dashboards](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/examples/Reference_Query_A%20-%20Open%20POs.sql)
 - [Breaking headcount data down by location](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/examples/Reference_Query_G%20-%20HC%20by%20Location.sql)
 - [Calculating $ per mile](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/examples/Reference_Query_H%20-%20Dollars%20Per%20Mile.sql)
+
+### Talking about Personal Stuff:
+
+🎧🎵🎶 I'm passionate about music and have spent the last year learning how to produce music. I'm hoping to get a track signed soon! You can check [here](www.julianpierre.com) for more information.<br>
+🏃 I am keenly interested in the wellness and longevity space. Some advancements in this area are really interesting.<br>
+
+
