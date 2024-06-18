@@ -4,7 +4,7 @@
 
 <img align="right" height="180" width="270" alt="" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="padding: 10px;" />
 
-I'm a data-driven finance and analytics professional with extensive experience in financial planning, analysis, and data management. I am hoping to transition into a data science or data analyst role to utilize my strong analytical skills and technical expertise. I have a proven ability to leverage data analytics, statistical modeling, and business intelligence tools to drive strategic decision-making and optimize processes.
+I'm a data-driven finance and analytics professional with extensive experience in financial planning, analysis, and data management. I have a proven ability to leverage data analytics, statistical modeling, and business intelligence tools to drive strategic decision-making and optimize processes.
 
 Below you'll find some examples of queries I've used to pull and standardize large datasets across disparate enterprise solutions.
 
