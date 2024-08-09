@@ -32,6 +32,7 @@ Add me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style
 - [Pulling purchase order data for dashboards](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/examples/Reference_Query_A%20-%20Open%20POs.sql)
 - [Breaking headcount data down by location](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/examples/Reference_Query_G%20-%20HC%20by%20Location.sql)
 - [Calculating $ per mile](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/examples/Reference_Query_H%20-%20Dollars%20Per%20Mile.sql)
+- [Calculating Median Over 30 Days](https://github.com/jsaaiman/jsaaiman.github.io/blob/main/examples/calculating_median_past_30.sql)
 
 ### Talking about Personal Stuff:
 
